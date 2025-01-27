@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hi I'm a back-end developer wonies (hoping..) 👋
 
 📧 Contact
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)]([https://your-blog-url.com](https://velog.io/@wondi/posts))
+
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@wondi/posts)
 
 
 
