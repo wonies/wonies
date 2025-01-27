@@ -1,4 +1,4 @@
-## Hi I'm a back-end developer wonies (hoping..) 👋
+## Hi I'm wonies 👋
 
 ### 📧 Contact
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@wondi/posts)
